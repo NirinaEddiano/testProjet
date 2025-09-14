@@ -212,7 +212,7 @@ export default function AddUserForm({ initialSubjects = [], initialLevels = [] }
           type="submit"
           className="submit-btn"
         >
-          Ajouter l'utilisateur
+          Ajouter l&apos;utilisateur
         </button>
 
         {status.message && (
